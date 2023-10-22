@@ -33,6 +33,7 @@ Applying Decision Tree classification algorithm for predicting if a user is a po
 ![image](https://github.com/RemyaVKarthikeyan/ML_supervised_classification_KNN_algorithm/assets/145346713/0c77f8ee-23e0-4b31-a85e-b5e8870f9bcb)
 
 DECISION TREE ALGORITHM FOR CLASSIFICATION
+
 8.(a) Determining the class feature and input features:
 
 ![image](https://github.com/RemyaVKarthikeyan/ML_supervised_classification_KNN_algorithm/assets/145346713/27eb2737-3253-445f-9756-0f7fcfba0f63)
